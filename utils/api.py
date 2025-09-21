@@ -1,0 +1,1 @@
+base_url="https://event-manager-api-wvmg.onrender.com"
